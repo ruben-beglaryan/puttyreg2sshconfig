@@ -4,7 +4,7 @@ puttyreg2sshconfig
 Usage
 -----
 
-Export the following path in regedit and make shure the reg file is UTF-8 encoded:
+Export the following path in regedit and make sure the reg file is UTF-8 encoded:
 [HKEY_CURRENT_USER\Software\Simontatham\PuTTY\Sessions]
 
 
